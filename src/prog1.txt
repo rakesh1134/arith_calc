@@ -1,0 +1,14 @@
+VAR X
+VAR Y
+VAR Z
+READ X
+READ Y
+READ Z
+Z = X + Y
+WRITE Z
+Z = X - Y
+WRITE Z
+Z = X * Y
+WRITE Z
+Z = X / Y
+WRITE Z
